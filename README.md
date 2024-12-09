@@ -100,7 +100,3 @@ This project is licensed under the MIT License.
 For any questions or suggestions, feel free to reach out:
 
 **Email:** [thesomen123@gmail.com](mailto:thesomen123@gmail.com)
-
----
-
-This `README.md` helps explain how to set up and use the DNS server, including your custom `dns_records.py`.
