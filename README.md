@@ -55,7 +55,7 @@ DNS_DATA = {
 1. **Start the Server**:
 
    ```bash
-   python dns_server.py
+   python main.py
    ```
 
    The server will listen on `0.0.0.0:8053` by default.
@@ -68,7 +68,7 @@ DNS_DATA = {
 
 ## 📝 Code Overview
 
-### `dns_server.py`
+### `main.py`
 
 This script contains:
 
