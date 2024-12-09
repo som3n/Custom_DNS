@@ -24,7 +24,7 @@ pip install dnslib
 
 ```
 dns-server/
-│-- dns_server.py      # Main DNS server script
+│-- main.py      # Main DNS server script
 │-- dns_records.py     # Custom DNS records
 └-- README.md          # Documentation
 ```
